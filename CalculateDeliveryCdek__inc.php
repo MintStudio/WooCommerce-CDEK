@@ -29,7 +29,7 @@ function cdek_include_frontend_js()
 add_action( 'wp_enqueue_scripts', 'cdek_include_frontend_js', 10);
 
 function cdek_include_admin_js() {        
-    wp_enqueue_script( 'cdek-script', MY_PLUGIN_URL . 'assets/js/сdek-script.js', array('jquery', 'jquery-ui-core'), '1.0', true );  
+    wp_enqueue_script( 'cdek-script', MY_PLUGIN_URL . 'assets/js/сdek-script.js', array('jquery', 'jquery-ui-core'), '1.0');  
 }
 add_action('admin_enqueue_scripts', 'cdek_include_admin_js', 5);
 
