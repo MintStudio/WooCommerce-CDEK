@@ -46,7 +46,7 @@
 
 Вопросы и предложения пишите в раздел [Issues](https://github.com/MintStudio/woocommerce-cdek/issues) или на почту <info@mint-studio.org>
 
-## Showcase
+## Примеры использования
 * [Bon Cappuccino](https://boncappuccino.ru/)
 
 ## Документация для разработчиков
