@@ -2,7 +2,7 @@
 
 ## Описание
 
-Плагин [WooCommerce-CDEK](https://github.com/MintStudio/woocommerce-cdek/) – готовое решение расчета стоимости доставки для сайтов на WooCommerce:
+Бесплатный плагин [WooCommerce-CDEK](https://github.com/MintStudio/woocommerce-cdek/) – готовое решение расчета стоимости доставки для сайтов на WooCommerce:
 
 * включает возможность выбора города доставки для всех товаров
 * включает возможность выбора города доставки индивидуально для каждого товара
