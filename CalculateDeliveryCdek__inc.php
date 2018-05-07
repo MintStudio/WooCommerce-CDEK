@@ -1,10 +1,9 @@
 <?php
 /*
     Plugin Name: CDEK delivery calculator
-    Plugin URI: http://mint-studio.org
     Description: Плагин рассчитывает стоимость доставки товара службой "Сдэк"
     Version: 1.0
-    Author: Mint Studio
+    Author: ООО «Минт Студио» (Mint Studio)
     Author URI: http://mint-studio.org
 */
 
