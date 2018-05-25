@@ -9,7 +9,7 @@
  * @see 3197
  * @author Tatyana Shurmeleva
  */
-class CalculatePriceDeliveryCdek {
+class CDS_CDEK_CalculatePriceDeliveryCdek {
 	
 	//версия модуля
 	private $version = "1.0";
