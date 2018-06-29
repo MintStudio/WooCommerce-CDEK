@@ -24,7 +24,7 @@ define( 'CDS_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 function cds_cdek_include_frontend_js()  
 {    
     if ( is_cart() || is_checkout() ) {
-        wp_enqueue_script('jquery-ui-1.12.1', 'https://code.jquery.com/ui/1.12.1/jquery-ui.min.js', array( 'jquery' ), '1.12.1');
+        wp_enqueue_script("jquery-ui-autocomplete", array('jquery','jquery-ui-core'));
         wp_enqueue_script('cds_cdek_script', CDS_PLUGIN_URL . 'assets/js/CDS_CDEK_script.js', array('jquery' ), '1.0'); 
     }
 } 
